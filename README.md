@@ -23,4 +23,11 @@ I am a Junior Web/Python Developer. A graduate of the Yandex Academy Lyceum and 
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="pytest" alt="pytest" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" title="sqla" alt="sqla" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="sqla" alt="sqla" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="sqla" alt="sqla" width="40" height="40"/>&nbsp
+  <img src"https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="sqla" alt="sqla" width="40" height="40"/>&nbsp
+  <img src"" title="sqla" alt="sqla" width="40" height="40"/>&nbsp
+  <img src"" title="sqla" alt="sqla" width="40" height="40"/>&nbsp
 </div>
