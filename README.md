@@ -1,7 +1,7 @@
 # Hi, I'm Sergey
 
 ### 👨‍💻 About me:
-Hi, I'm Sergey. I am 18 years old and I am a developer from Russia. Now I am a Junior Python Developer and an employee of OKAS. If you are interested in learning more about me, then my contacts are listed below.
+Hi, I'm Sergey. I am 18 years old and I am a developer from Russia. Now I am a Backend Junior Python Developer and an employee of OKAS.
 ### 🤝 Social Network:
 
   <div id="badges">
