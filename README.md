@@ -1,7 +1,7 @@
 # Hi, I'm Sergey
 
 ### 👨‍💻 About me:
-Hi, I'm Sergey. I am 18 years old and I am a developer from Russia. Now I am a Backend Junior Python Developer and an employee of OKAS.
+Hi, I'm Sergey. I am 18 years old and I am a developer from Russia. Now I am a Junior Backend Python Developer and an employee of OKAS.
 ### 🤝 Social Network:
 
   <div id="badges">
@@ -23,6 +23,5 @@ Hi, I'm Sergey. I am 18 years old and I am a developer from Russia. Now I am a B
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css3" alt="css3" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="blender" alt="blender" width="40" height="40"/>&nbsp
 </div>
