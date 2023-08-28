@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About me:
 Hi, I'm Sergey. I am 18 years old and I am a developer from Russia. Now I am a Junior Backend Python Developer and an employee of OKAS.
-### 🤝 Social Network:
+### 🤝 Contacts:
 
   <div id="badges">
     <a href="https://t.me/A1tishnik" target="_blank">
@@ -13,7 +13,7 @@ Hi, I'm Sergey. I am 18 years old and I am a developer from Russia. Now I am a J
     </a>
   </div>
 
-### 💻 Technologies:
+### 💻 Technologies and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="40" height="40"/>&nbsp
