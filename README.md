@@ -1,7 +1,7 @@
 # Hi, I'm Sergey
 
 ### 👨‍💻 About me:
-Hi, I'm Sergey. I am 18 years old and I am a developer from Russia
+Hi, I'm Sergey. I am 19 years old and I am a developer from Russia
 ### 🤝 Contacts:
 
   <div id="badges">
