@@ -19,17 +19,13 @@
 
 ---
 
-### 📊 Часто используемые технологии:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sserov77&layout=compact&langs_count=10&theme=radical" alt="Top Langs"/>
-</p>
-
----
-
 ### 🌐 Где меня найти:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/a1tishnik)  
 [![VK](https://img.shields.io/badge/-VK-4680C2?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/a1tishnik)
 
 ---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sserov77&layout=compact&langs_count=10&theme=radical" alt="Top Langs"/>
+</p>
