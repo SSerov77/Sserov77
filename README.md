@@ -1,4 +1,4 @@
-<h1 align="center">Привет, я Сергей 👋</h1>
+# Привет, я Сергей 👋
 
 ---
 
@@ -26,6 +26,5 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sserov77&layout=compact&langs_count=10&theme=radical" alt="Top Langs"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sserov77&layout=compact&langs_count=10&theme=radical" alt="Top Langs"/>
+
