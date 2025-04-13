@@ -24,6 +24,3 @@
 [![VK](https://img.shields.io/badge/-VK-4680C2?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/a1tishnik)
 
 ---
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sserov77&layout=compact&langs_count=10&theme=radical" alt="Top Langs"/>
-
