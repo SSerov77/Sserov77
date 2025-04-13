@@ -1,24 +1,29 @@
-# Hi, I'm Sergey
+<h1 align="center">Привет, я Сергей 👋</h1>
 
-### 👨‍💻 About me:
-Hi, I'm Sergey. I am 19 years old and I am a developer from Russia
-### 🤝 Contacts:
+---
 
-  <div id="badges">
-    <a href="https://t.me/A1tishnik" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    </a>
-    <a href="https://vk.com/a1tishnik" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a>
-  </div>
+### 🛠️ Мой стек:
 
-### 💻 Technologies and Tools:
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django" alt="django" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css3" alt="css3" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-</div>
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+---
+
+### 📊 GitHub Статистика:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SSerov77&show_icons=true&theme=radical" alt="GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SSerov77&theme=radical" alt="GitHub streak"/>
+</p>
+
+---
+
+### 🌐 Где меня найти:
+
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/a1tishnik)
+
+---
